@@ -7,7 +7,7 @@ Me interesa seguir aprendiendo nuevas tecnologías y fortalecer mis habilidades 
 ---
 
 ## Mi Portafolio  
-🔗 Muy pronto compartiré aquí el enlace a mi página personal donde estarán mis proyectos.  
+🔗  https://miportafolio-rosy.vercel.app/
 
 ---
 
