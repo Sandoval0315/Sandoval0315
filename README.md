@@ -1,14 +1,8 @@
-# ¡Hola! Soy Nelson Sandoval  
-
-## Sobre mí  
-Soy un desarrollador apasionado por la tecnología, me gusta crear soluciones modernas y eficientes tanto en **frontend** como en **backend**.  
-Me interesa seguir aprendiendo nuevas tecnologías y fortalecer mis habilidades en el desarrollo de aplicaciones web y móviles. 🚀  
-
+# ¡Hola! Soy Sandoval  
 ---
 
 ## Mi Portafolio  
 🔗  https://miportfolio-sandoval.vercel.app
-
 ---
 
 ## Tecnologias
