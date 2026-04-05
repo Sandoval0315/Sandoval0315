@@ -7,8 +7,7 @@
 ## Tiempo  
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34517)](https://codetime.dev)
 
-https://wakatime.com/badge/user/cf255026-0033-42d2-a693-81d9535e3df8/project/5320dc77-6b84-4310-ac03-31f23d40f18b.svg
-
+[![wakatime](https://wakatime.com/badge/user/cf255026-0033-42d2-a693-81d9535e3df8.svg)](https://wakatime.com/@cf255026-0033-42d2-a693-81d9535e3df8)
 
 ## Tecnologias
 
