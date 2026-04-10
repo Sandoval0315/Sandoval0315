@@ -72,13 +72,9 @@
 
 <div align="center">
 
-<!-- Opción 1: Stats de GitHub oficial (limitadas) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sandoval0315&show_icons=true" alt="GitHub Stats" />
-
-<!-- Opción 2: Usar streak-stats que sí funciona -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sandoval0315&theme=default&hide_border=true)
 
-<!-- Opción 3: Stats básicas que siempre funcionan -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sandoval0315&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sandoval0315&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandoval0315&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
