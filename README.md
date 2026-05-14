@@ -4,10 +4,13 @@
 ## Mi Portafolio  
 🔗  https://miportfolio-sandoval.vercel.app
 
-## Tiempo [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=ef0001&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34517)](https://codetime.dev)
+## Tiempo 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=ef0001&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34517)](https://codetime.dev)
 
 
 [![wakatime](https://wakatime.com/badge/user/cf255026-0033-42d2-a693-81d9535e3df8.svg)](https://wakatime.com/@cf255026-0033-42d2-a693-81d9535e3df8)
+
+[![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=34517&days=30&limit=6&theme=light)](https://codetime.dev)
 
 ## Tecnologías
 
