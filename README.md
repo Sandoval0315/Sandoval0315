@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sandoval  
+# ¡Hola!
 ---
 
 ## Mi Portafolio  
